@@ -1,4 +1,4 @@
-package utilities;
+package com.trello.utilities;
 
 
 import io.github.bonigarcia.wdm.WebDriverManager;
